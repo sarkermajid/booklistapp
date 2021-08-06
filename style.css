@@ -1,0 +1,30 @@
+label{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color : #fff;
+}
+body {
+    background-image: url('pexels-pixabay-268976.jpg');
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: none;
+	background-size: 1500px;
+}
+span{
+    color: #2ecc71;
+    font-family: fantasy;
+    font-weight: bold;
+}
+i{
+    color: #f39c12;
+}
+.btn {
+    background-color: #2ecc71;
+    color: white;
+    font-weight: 600;
+}
+.box{
+    border-radius: 10px;
+    padding: 20px;
+}
